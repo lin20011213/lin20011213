@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 ![lin20011213's GitHub stats](https://github-readme-stats.vercel.app/api?username=lin20011213&theme=tokyonight&show_icons=true)
 
-```
-cool!
-```
-
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/lin20011213?theme=dark&font=Coming%20Soon) -->
 
 
