@@ -11,8 +11,7 @@ I’m Taiwanese student:
 - ARCGIS 地圖專案 用 React 前端框架 配上 flask 後端 製作出一個地圖頁面搜索的專案
 - 樹梅派專案 把樹梅派做成小型的伺服器 ，用樹梅派傳輸指令給 Arduion 來達成發送 requests 來操作機器人。
 - 自動化搶場地專案 用 python requests 配合 bs4 做到自動搶場地
-
-
+- 股票專案 用 flask 配合 NEXT.JS 14 來製作股票分析頁面。
 
 
 ![lin20011213's GitHub stats](https://github-readme-stats.vercel.app/api?username=lin20011213&theme=tokyonight&show_icons=true)
